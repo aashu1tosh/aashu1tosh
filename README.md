@@ -31,11 +31,11 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashu1tosh&show_icons=true&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=aashu1tosh&theme=onedark)
 
 ### Most Used Programming Languages (According to GitHub Stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashu1tosh&layout=compact)
