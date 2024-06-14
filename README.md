@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## Hi there 👋
-I am a recent Computer Engineering graduate, skilled in software development and passionate about creating innovative solutions. Proficient in various programming languages and development methodologies, I bring strong problem-solving skills and attention to detail to every project.
+I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in software development and passionate about creating innovative solutions. Proficient in various programming languages and development methodologies, I bring strong problem-solving skills and attention to detail to every project.
 
 ### Connect with Me
 - LinkedIn: [AashutoshParajuli](https://www.linkedin.com/in/parajuliaashutosh/)
