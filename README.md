@@ -33,7 +33,7 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 
 ## 📊 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashu1tosh&langs_count=8&theme=radical)
 
 ## 📈 GitHub Stats
 
