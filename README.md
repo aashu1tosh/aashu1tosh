@@ -7,9 +7,6 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 - LinkedIn: [AashutoshParajuli](https://www.linkedin.com/in/parajuliaashutosh/)
 - Email: [aashutoshparajuli28@gmail.com](mailto:aashutoshparajuli28@gmail.com)
 
-### About Me
-I'm enthusiastic about working with various languages and frameworks, databases, and version control systems. Here's a quick overview:
-
 - **Languages & Frameworks**: I have experience with  Python, JavaScrit, TypeScript, React.JS, Node.js.
 - **Databases**: I am familiar with Postgres, MySQL, MongoDB.
 - **Version Control**: Proficient in Git.
