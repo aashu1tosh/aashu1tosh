@@ -20,10 +20,10 @@ I'm enthusiastic about working with various languages and frameworks, databases,
 ### Projects and Repositories
 Here are some notable projects and repositories you might be interested in:
 
-- Vechile E-commerce Website ([link-to-project](https://github.com/aashu1tosh/annata-Vechile-Buying-Selling-Website-))
-- Youtube Clone([link-to-project](https://github.com/aashu1tosh/youtube-clone))
-- News Application([link-to-project](https://github.com/aashu1tosh/news-app))
-- Weather Application([link-to-project](https://github.com/aashu1tosh/my-weather-app))
+- ([Vechile E-commerce Website](https://github.com/aashu1tosh/annata-Vechile-Buying-Selling-Website-))
+- ([Youtube Clone](https://github.com/aashu1tosh/youtube-clone))
+- ([News Application](https://github.com/aashu1tosh/news-app))
+- ([Weather Application](https://github.com/aashu1tosh/my-weather-app))
 
 Feel free to explore my repositories and reach out if you have any questions or suggestions. Let's connect and collaborate!
 
