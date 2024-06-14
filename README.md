@@ -2,7 +2,8 @@
 
 ## Hi there 👋
 I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in software development and passionate about creating innovative solutions. Proficient in various programming languages and development methodologies, I bring strong problem-solving skills and attention to detail to every project.
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+![Profile Views](https://komarev.com/ghpvc/?username=aashu1tosh&color=blue)
 
 ## 📫 Connect with me
 
