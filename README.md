@@ -32,8 +32,7 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 📊 Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashu1tosh&langs_count=8&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashu1tosh&layout=compact)
 
 ## 📈 GitHub Stats
 
@@ -42,9 +41,6 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aashu1tosh&theme=onedark)
-
-### Most Used Programming Languages (According to GitHub Stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashu1tosh&layout=compact)
 
 ### Projects and Repositories
 Here are some notable projects and repositories you might be interested in:
