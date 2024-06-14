@@ -2,10 +2,12 @@
 
 ## Hi there 👋
 I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in software development and passionate about creating innovative solutions. Proficient in various programming languages and development methodologies, I bring strong problem-solving skills and attention to detail to every project.
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-### Connect with Me
-- LinkedIn: [AashutoshParajuli](https://www.linkedin.com/in/parajuliaashutosh/)
-- Email: [aashutoshparajuli28@gmail.com](mailto:aashutoshparajuli28@gmail.com)
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/parajuliaashutosh/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:aashutohparajuli28@example.com)
 
 ## Programming Languages and Framework
 
@@ -28,6 +30,10 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## 📊 Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=8&theme=radical)
 
 ## 📈 GitHub Stats
 
