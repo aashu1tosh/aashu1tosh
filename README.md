@@ -8,7 +8,7 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/parajuliaashutosh/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:aashutohparajuli28@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:aashutohparajuli28@gmail.com)
 
 ## Programming Languages and Framework
 
