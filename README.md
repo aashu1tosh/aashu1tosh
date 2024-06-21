@@ -3,8 +3,6 @@
 ## Hi there 👋
 I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in software development and passionate about creating innovative solutions. Proficient in various programming languages and development methodologies, I bring strong problem-solving skills and attention to detail to every project.
 
-![Profile Views](https://komarev.com/ghpvc/?username=aashu1tosh&color=blue)
-
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/parajuliaashutosh/)
