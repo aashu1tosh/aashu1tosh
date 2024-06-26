@@ -35,7 +35,7 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashu1tosh&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashu1tosh&show_icons=true&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
