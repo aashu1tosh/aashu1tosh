@@ -3,8 +3,7 @@
 ## Hi there 👋
 I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in software development and passionate about creating innovative solutions. Proficient in various programming languages and development methodologies, I bring strong problem-solving skills and attention to detail to every project.
 
-## Personal Site
-- 🌐 [Personal Website](https://your-personal-website-link.com)
+## [Personal Site 🌐](https://aashutoshparajuli.com.np)
 
 ## 📫 Connect with me
 
