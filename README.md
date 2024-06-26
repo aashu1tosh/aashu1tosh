@@ -45,9 +45,9 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 Here are some notable projects and repositories you might be interested in:
 
 - [Vechile E-commerce Website](https://github.com/aashu1tosh/annata-Vechile-Buying-Selling-Website-)
-- [Youtube Clone](https://github.com/aashu1tosh/youtube-clone) [hosted-link](https://youtube.aashutoshparajuli.com.np)
-- ([News Application](https://github.com/aashu1tosh/news-app)[hosted-link](https://news.aashutoshparajuli.com.np))
-- ([Weather Application](https://github.com/aashu1tosh/my-weather-app)[hosted-link](https://weather.aashutoshparajuli.com.np))
+- [Youtube Clone](https://github.com/aashu1tosh/youtube-clone) ([hosted-link])(https://youtube.aashutoshparajuli.com.np)
+- [News Application](https://github.com/aashu1tosh/news-app) ([hosted-link])(https://youtube.aashutoshparajuli.com.np)
+- [Weather Application](https://github.com/aashu1tosh/my-weather-app) ([hosted-link])(https://weather.aashutoshparajuli.com.np)
 
 Feel free to explore my repositories and reach out if you have any questions or suggestions. Let's connect and collaborate!
 
