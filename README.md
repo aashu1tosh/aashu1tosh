@@ -3,6 +3,9 @@
 ## Hi there 👋
 I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in software development and passionate about creating innovative solutions. Proficient in various programming languages and development methodologies, I bring strong problem-solving skills and attention to detail to every project.
 
+## Personal Site
+- 🌐 [Personal Website](https://your-personal-website-link.com)
+
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/parajuliaashutosh/)
@@ -44,10 +47,12 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 ### Projects and Repositories
 Here are some notable projects and repositories you might be interested in:
 
-- [Vechile E-commerce Website](https://github.com/aashu1tosh/annata-Vechile-Buying-Selling-Website-)
-- [Youtube Clone](https://github.com/aashu1tosh/youtube-clone) ([hosted link](https://youtube.aashutoshparajuli.com.np))
-- [News Application](https://github.com/aashu1tosh/news-app) ([hosted link](https://youtube.aashutoshparajuli.com.np))
-- [Weather Application](https://github.com/aashu1tosh/my-weather-app) ([hosted link](https://weather.aashutoshparajuli.com.np))
+## Projects
+
+- ![🚗](https://img.icons8.com/emoji/48/000000/car--v1.png) [Vechile E-commerce Website](https://github.com/aashu1tosh/annata-Vechile-Buying-Selling-Website-)
+- ![🎥](https://img.icons8.com/emoji/48/000000/video-camera.png) [Youtube Clone](https://github.com/aashu1tosh/youtube-clone) ([hosted link](https://youtube.aashutoshparajuli.com.np))
+- ![📰](https://img.icons8.com/emoji/48/000000/newspaper.png) [News Application](https://github.com/aashu1tosh/news-app) ([hosted link](https://youtube.aashutoshparajuli.com.np))
+- ![☀️](https://img.icons8.com/emoji/48/000000/sun.png) [Weather Application](https://github.com/aashu1tosh/my-weather-app) ([hosted link](https://weather.aashutoshparajuli.com.np))
 
 Feel free to explore my repositories and reach out if you have any questions or suggestions. Let's connect and collaborate!
 
