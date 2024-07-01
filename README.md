@@ -43,7 +43,7 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aashu1tosh&theme=onedark)
 
-![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=vue)
+![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashu1tosh&theme=vue)
 
 
 ### Projects and Repositories
