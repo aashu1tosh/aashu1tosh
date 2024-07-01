@@ -41,7 +41,8 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashu1tosh&theme=vue)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aashu1tosh&theme=react-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aashu1tosh)
+
 
 ## 🏆 GitHub Trophies
 
