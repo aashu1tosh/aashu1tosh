@@ -33,7 +33,7 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 📊 Languages
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aashu1tosh)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashu1tosh&layout=compact)
 
 ## 📈 GitHub Stats
 
