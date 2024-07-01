@@ -36,6 +36,7 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashu1tosh&layout=compact)
 
 ## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aashu1tosh&show_icons=true&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aashu1tosh)
 
