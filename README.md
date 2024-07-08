@@ -50,7 +50,7 @@ Here are some notable projects and repositories you might be interested in:
 
 ## Projects
 
-- ![🚗] [Vechile E-commerce Website](https://github.com/aashu1tosh/annata-Vechile-Buying-Selling-Website-)
+- ![🚗] [E-commerce Website](https://github.com/aashu1tosh/ecommerce--backend)
 - ![🎥][Youtube Clone](https://github.com/aashu1tosh/youtube-clone) ([hosted link](https://youtube.aashutoshparajuli.com.np))
 - ![📰] [News Application](https://github.com/aashu1tosh/news-app) ([hosted link](https://youtube.aashutoshparajuli.com.np))
 - ![☀️] [Weather Application](https://github.com/aashu1tosh/my-weather-app) ([hosted link](https://weather.aashutoshparajuli.com.np))
