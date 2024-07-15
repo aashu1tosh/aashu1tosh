@@ -50,7 +50,8 @@ Here are some notable projects and repositories you might be interested in:
 
 ## Projects
 
-- ![🚗] [E-commerce Website](https://github.com/aashu1tosh/ecommerce--backend)
+- ![📰] [Discussion Forum](https://github.com/aashu1tosh/discussion-forum-graphql--backend)
+- ![🚗] [E-commerce Web Application](https://github.com/aashu1tosh/ecommerce--backend)
 - ![🎥][Youtube Clone](https://github.com/aashu1tosh/youtube-clone) ([hosted link](https://youtube.aashutoshparajuli.com.np))
 - ![📰] [News Application](https://github.com/aashu1tosh/news-app) ([hosted link](https://youtube.aashutoshparajuli.com.np))
 - ![☀️] [Weather Application](https://github.com/aashu1tosh/my-weather-app) ([hosted link](https://weather.aashutoshparajuli.com.np))
