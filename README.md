@@ -45,10 +45,8 @@ I am Aashutosh Parajuli a recent Computer Engineering graduate, skilled in softw
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aashu1tosh&theme=onedark)
 
-### Projects and Repositories
-Here are some notable projects and repositories you might be interested in:
-
 ## Projects
+Here are some notable projects and repositories you might be interested in:
 
 - ![📰] [Discussion Forum](https://github.com/aashu1tosh/discussion-forum-graphql--backend)
 - ![🚗] [E-commerce Web Application](https://github.com/aashu1tosh/ecommerce--backend)
